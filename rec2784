@@ -1,0 +1,556 @@
+Everage-Devin-p2:
+total 1232
+-rw-r--r--. 1 ugrad     312 Oct 19 15:48 build.sbt
+drwxr-xr-x. 3 ugrad    4096 Oct 19 15:52 project
+-rw-r--r--. 1 ugrad   19705 Oct 26 23:49 README.md
+-rw-r--r--. 1 ugrad       0 Oct 26 23:50 rec2784
+drwxr-xr-x. 3 ugrad    4096 Oct 19 15:48 resources
+drwxr-xr-x. 2 ugrad    4096 Oct 19 15:48 samples
+-rwxr-xr-x. 1 ugrad      51 Oct 19 15:48 sbt
+-rw-r--r--. 1 ugrad 1208380 Oct 19 15:48 sbt-launch.jar
+drwxr-xr-x. 3 ugrad    4096 Oct 19 15:48 src
+drwxr-xr-x. 5 ugrad    4096 Oct 22 21:38 target
+
+Everage-Devin-p2/project:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Oct 19 15:52 target
+
+Everage-Devin-p2/project/target:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Oct 19 15:52 config-classes
+
+Everage-Devin-p2/project/target/config-classes:
+total 104
+-rw-r--r--. 1 ugrad  895 Oct 19 15:52 $132dd1c880351479bf21$$anonfun$$sbtdef$1.class
+-rw-r--r--. 1 ugrad   22 Oct 19 15:52 $132dd1c880351479bf21.cache
+-rw-r--r--. 1 ugrad  721 Oct 19 15:52 $132dd1c880351479bf21.class
+-rw-r--r--. 1 ugrad 1309 Oct 19 15:52 $132dd1c880351479bf21$.class
+-rw-r--r--. 1 ugrad  941 Oct 19 15:52 $5ce8aa86ab8f2efed826$$anonfun$$sbtdef$1.class
+-rw-r--r--. 1 ugrad   22 Oct 19 15:52 $5ce8aa86ab8f2efed826.cache
+-rw-r--r--. 1 ugrad  399 Oct 19 15:52 $5ce8aa86ab8f2efed826.class
+-rw-r--r--. 1 ugrad 1321 Oct 19 15:52 $5ce8aa86ab8f2efed826$.class
+-rw-r--r--. 1 ugrad   22 Oct 19 15:52 $b6df3cbfccb2fe287600.cache
+-rw-r--r--. 1 ugrad  322 Oct 19 15:52 $b6df3cbfccb2fe287600.class
+-rw-r--r--. 1 ugrad 2201 Oct 19 15:52 $b6df3cbfccb2fe287600$.class
+-rw-r--r--. 1 ugrad 1373 Oct 19 15:52 $cc0ab1d6597d5a8b1a9b$$anonfun$$sbtdef$1.class
+-rw-r--r--. 1 ugrad   22 Oct 19 15:52 $cc0ab1d6597d5a8b1a9b.cache
+-rw-r--r--. 1 ugrad  399 Oct 19 15:52 $cc0ab1d6597d5a8b1a9b.class
+-rw-r--r--. 1 ugrad 1542 Oct 19 15:52 $cc0ab1d6597d5a8b1a9b$.class
+-rw-r--r--. 1 ugrad  886 Oct 19 15:52 $d39732db1d111595694f$$anonfun$$sbtdef$1.class
+-rw-r--r--. 1 ugrad   22 Oct 19 15:52 $d39732db1d111595694f.cache
+-rw-r--r--. 1 ugrad  399 Oct 19 15:52 $d39732db1d111595694f.class
+-rw-r--r--. 1 ugrad 1312 Oct 19 15:52 $d39732db1d111595694f$.class
+-rw-r--r--. 1 ugrad  941 Oct 19 15:52 $e5a7cc14c857eefd5990$$anonfun$$sbtdef$1.class
+-rw-r--r--. 1 ugrad   22 Oct 19 15:52 $e5a7cc14c857eefd5990.cache
+-rw-r--r--. 1 ugrad  399 Oct 19 15:52 $e5a7cc14c857eefd5990.class
+-rw-r--r--. 1 ugrad 1310 Oct 19 15:52 $e5a7cc14c857eefd5990$.class
+-rw-r--r--. 1 ugrad   22 Oct 19 15:52 $eae736231b73101e5c08.cache
+-rw-r--r--. 1 ugrad  322 Oct 19 15:52 $eae736231b73101e5c08.class
+-rw-r--r--. 1 ugrad 2204 Oct 19 15:52 $eae736231b73101e5c08$.class
+
+Everage-Devin-p2/resources:
+total 8
+-rw-r--r--. 1 ugrad  622 Oct 19 15:48 default.png
+drwxr-xr-x. 2 ugrad 4096 Oct 19 15:48 icons
+
+Everage-Devin-p2/resources/icons:
+total 20
+-rw-r--r--. 1 ugrad  974 Oct 19 15:48 checkers.png
+-rw-r--r--. 1 ugrad  968 Oct 19 15:48 horizontal.png
+-rw-r--r--. 1 ugrad 1145 Oct 19 15:48 reset.png
+-rw-r--r--. 1 ugrad 1173 Oct 19 15:48 rotate.png
+-rw-r--r--. 1 ugrad  969 Oct 19 15:48 vertical.png
+
+Everage-Devin-p2/samples:
+total 308
+-rw-r--r--. 1 ugrad 194438 Oct 19 15:48 sample1.png
+-rw-r--r--. 1 ugrad 116736 Oct 19 15:48 sample2.png
+
+Everage-Devin-p2/src:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Oct 19 15:48 main
+
+Everage-Devin-p2/src/main:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Oct 19 15:48 java
+
+Everage-Devin-p2/src/main/java:
+total 4
+drwxr-xr-x. 4 ugrad 4096 Oct 19 15:48 cs1302
+
+Everage-Devin-p2/src/main/java/cs1302:
+total 8
+drwxr-xr-x. 2 ugrad 4096 Oct 19 15:48 effects
+drwxr-xr-x. 2 ugrad 4096 Oct 23 22:21 p2
+
+Everage-Devin-p2/src/main/java/cs1302/effects:
+total 4
+-rw-r--r--. 1 ugrad 2839 Oct 19 15:48 Artsy.java
+
+Everage-Devin-p2/src/main/java/cs1302/p2:
+total 24
+-rw-r--r--. 1 ugrad 1136 Oct 26 23:14 ArtsyMenuBar.java
+-rw-r--r--. 1 ugrad 7527 Oct 26 23:44 ArtsyPanel.java
+-rw-r--r--. 1 ugrad 2143 Oct 26 23:14 Driver.java
+-rw-r--r--. 1 ugrad 2938 Oct 26 23:32 MainPanel.java
+-rw-r--r--. 1 ugrad 2420 Oct 26 23:34 MyArtsy.java
+
+Everage-Devin-p2/target:
+total 12
+drwxr-xr-x. 4 ugrad 4096 Oct 22 21:38 resolution-cache
+drwxr-xr-x. 3 ugrad 4096 Oct 26 23:45 scala-2.10
+drwxr-xr-x. 5 ugrad 4096 Oct 22 23:53 streams
+
+Everage-Devin-p2/target/resolution-cache:
+total 8
+drwxr-xr-x. 3 ugrad 4096 Oct 22 21:38 cs1302-artsy
+drwxr-xr-x. 2 ugrad 4096 Oct 22 21:38 reports
+
+Everage-Devin-p2/target/resolution-cache/cs1302-artsy:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Oct 22 21:38 cs1302-artsy_2.10
+
+Everage-Devin-p2/target/resolution-cache/cs1302-artsy/cs1302-artsy_2.10:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Oct 22 21:38 1.1
+
+Everage-Devin-p2/target/resolution-cache/cs1302-artsy/cs1302-artsy_2.10/1.1:
+total 8
+-rw-r--r--. 1 ugrad  632 Oct 22 21:38 resolved.xml.properties
+-rw-r--r--. 1 ugrad 2016 Oct 22 21:38 resolved.xml.xml
+
+Everage-Devin-p2/target/resolution-cache/reports:
+total 96
+-rw-r--r--. 1 ugrad   449 Oct 22 21:38 cs1302-artsy-cs1302-artsy_2.10-compile-internal.xml
+-rw-r--r--. 1 ugrad   440 Oct 22 21:38 cs1302-artsy-cs1302-artsy_2.10-compile.xml
+-rw-r--r--. 1 ugrad   437 Oct 22 21:38 cs1302-artsy-cs1302-artsy_2.10-docs.xml
+-rw-r--r--. 1 ugrad   441 Oct 22 21:38 cs1302-artsy-cs1302-artsy_2.10-optional.xml
+-rw-r--r--. 1 ugrad   439 Oct 22 21:38 cs1302-artsy-cs1302-artsy_2.10-plugin.xml
+-rw-r--r--. 1 ugrad   436 Oct 22 21:38 cs1302-artsy-cs1302-artsy_2.10-pom.xml
+-rw-r--r--. 1 ugrad   441 Oct 22 21:38 cs1302-artsy-cs1302-artsy_2.10-provided.xml
+-rw-r--r--. 1 ugrad   449 Oct 22 21:38 cs1302-artsy-cs1302-artsy_2.10-runtime-internal.xml
+-rw-r--r--. 1 ugrad   440 Oct 22 21:38 cs1302-artsy-cs1302-artsy_2.10-runtime.xml
+-rw-r--r--. 1 ugrad  7578 Oct 22 21:38 cs1302-artsy-cs1302-artsy_2.10-scala-tool.xml
+-rw-r--r--. 1 ugrad   440 Oct 22 21:38 cs1302-artsy-cs1302-artsy_2.10-sources.xml
+-rw-r--r--. 1 ugrad  4372 Oct 22 21:38 cs1302-artsy-cs1302-artsy_2.10-test-internal.xml
+-rw-r--r--. 1 ugrad  4328 Oct 22 21:38 cs1302-artsy-cs1302-artsy_2.10-test.xml
+-rw-r--r--. 1 ugrad  4371 Oct 22 21:38 ivy-report.css
+-rw-r--r--. 1 ugrad 20993 Oct 22 21:38 ivy-report.xsl
+
+Everage-Devin-p2/target/scala-2.10:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Oct 23 22:22 classes
+
+Everage-Devin-p2/target/scala-2.10/classes:
+total 4
+drwxr-xr-x. 4 ugrad 4096 Oct 26 15:01 cs1302
+
+Everage-Devin-p2/target/scala-2.10/classes/cs1302:
+total 8
+drwxr-xr-x. 2 ugrad 4096 Oct 22 23:48 effects
+drwxr-xr-x. 2 ugrad 4096 Oct 26 23:45 p2
+
+Everage-Devin-p2/target/scala-2.10/classes/cs1302/effects:
+total 4
+-rw-r--r--. 1 ugrad 366 Oct 26 15:01 Artsy.class
+
+Everage-Devin-p2/target/scala-2.10/classes/cs1302/p2:
+total 24
+-rw-r--r--. 1 ugrad 2376 Oct 26 23:32 ArtsyMenuBar.class
+-rw-r--r--. 1 ugrad 6220 Oct 26 23:45 ArtsyPanel.class
+-rw-r--r--. 1 ugrad 2063 Oct 26 23:32 Driver.class
+-rw-r--r--. 1 ugrad 2899 Oct 26 23:32 MainPanel.class
+-rw-r--r--. 1 ugrad 1873 Oct 26 23:43 MyArtsy.class
+
+Everage-Devin-p2/target/streams:
+total 12
+drwxr-xr-x. 15 ugrad 4096 Oct 22 23:53 compile
+drwxr-xr-x.  9 ugrad 4096 Oct 22 21:38 $global
+drwxr-xr-x. 10 ugrad 4096 Oct 22 23:53 runtime
+
+Everage-Devin-p2/target/streams/compile:
+total 52
+drwxr-xr-x. 3 ugrad 4096 Oct 22 21:38 compile
+drwxr-xr-x. 3 ugrad 4096 Oct 22 23:53 copyResources
+drwxr-xr-x. 3 ugrad 4096 Oct 22 21:38 dependencyClasspath
+drwxr-xr-x. 3 ugrad 4096 Oct 22 23:53 exportedProducts
+drwxr-xr-x. 3 ugrad 4096 Oct 22 21:38 externalDependencyClasspath
+drwxr-xr-x. 3 ugrad 4096 Oct 22 23:52 $global
+drwxr-xr-x. 3 ugrad 4096 Oct 22 21:38 incCompileSetup
+drwxr-xr-x. 3 ugrad 4096 Oct 22 21:38 internalDependencyClasspath
+drwxr-xr-x. 3 ugrad 4096 Oct 22 23:53 mainClass
+drwxr-xr-x. 3 ugrad 4096 Oct 22 21:38 managedClasspath
+drwxr-xr-x. 3 ugrad 4096 Oct 22 23:53 run
+drwxr-xr-x. 3 ugrad 4096 Oct 22 21:38 unmanagedClasspath
+drwxr-xr-x. 3 ugrad 4096 Oct 22 21:38 unmanagedJars
+
+Everage-Devin-p2/target/streams/compile/compile:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Oct 22 21:38 $global
+
+Everage-Devin-p2/target/streams/compile/compile/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Oct 22 21:38 streams
+
+Everage-Devin-p2/target/streams/compile/compile/$global/streams:
+total 8
+-rw-r--r--. 1 ugrad  292 Oct 26 23:45 export
+-rw-r--r--. 1 ugrad 1971 Oct 26 23:45 out
+
+Everage-Devin-p2/target/streams/compile/copyResources:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Oct 22 23:53 $global
+
+Everage-Devin-p2/target/streams/compile/copyResources/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Oct 22 23:53 streams
+
+Everage-Devin-p2/target/streams/compile/copyResources/$global/streams:
+total 8
+-rw-r--r--. 1 ugrad 23 Oct 26 23:32 copy-resources
+-rw-r--r--. 1 ugrad 83 Oct 26 23:32 out
+
+Everage-Devin-p2/target/streams/compile/dependencyClasspath:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Oct 22 21:38 $global
+
+Everage-Devin-p2/target/streams/compile/dependencyClasspath/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Oct 22 21:38 streams
+
+Everage-Devin-p2/target/streams/compile/dependencyClasspath/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 1 Oct 26 23:45 export
+
+Everage-Devin-p2/target/streams/compile/exportedProducts:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Oct 22 23:53 $global
+
+Everage-Devin-p2/target/streams/compile/exportedProducts/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Oct 22 23:53 streams
+
+Everage-Devin-p2/target/streams/compile/exportedProducts/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 64 Oct 26 23:32 export
+
+Everage-Devin-p2/target/streams/compile/externalDependencyClasspath:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Oct 22 21:38 $global
+
+Everage-Devin-p2/target/streams/compile/externalDependencyClasspath/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Oct 22 21:38 streams
+
+Everage-Devin-p2/target/streams/compile/externalDependencyClasspath/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 1 Oct 26 23:45 export
+
+Everage-Devin-p2/target/streams/compile/$global:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Oct 22 23:52 $global
+
+Everage-Devin-p2/target/streams/compile/$global/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Oct 22 23:52 discoveredMainClasses
+
+Everage-Devin-p2/target/streams/compile/$global/$global/discoveredMainClasses:
+total 4
+-rw-r--r--. 1 ugrad 22 Oct 26 23:45 data
+
+Everage-Devin-p2/target/streams/compile/incCompileSetup:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Oct 22 21:38 $global
+
+Everage-Devin-p2/target/streams/compile/incCompileSetup/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Oct 22 23:52 streams
+
+Everage-Devin-p2/target/streams/compile/incCompileSetup/$global/streams:
+total 152
+-rw-r--r--. 1 ugrad 155117 Oct 26 23:45 inc_compile_2.10
+
+Everage-Devin-p2/target/streams/compile/internalDependencyClasspath:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Oct 22 21:38 $global
+
+Everage-Devin-p2/target/streams/compile/internalDependencyClasspath/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Oct 22 21:38 streams
+
+Everage-Devin-p2/target/streams/compile/internalDependencyClasspath/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 1 Oct 26 23:45 export
+
+Everage-Devin-p2/target/streams/compile/mainClass:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Oct 22 23:53 $global
+
+Everage-Devin-p2/target/streams/compile/mainClass/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Oct 22 23:53 streams
+
+Everage-Devin-p2/target/streams/compile/mainClass/$global/streams:
+total 0
+-rw-r--r--. 1 ugrad 0 Oct 22 23:53 out
+
+Everage-Devin-p2/target/streams/compile/managedClasspath:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Oct 22 21:38 $global
+
+Everage-Devin-p2/target/streams/compile/managedClasspath/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Oct 22 21:38 streams
+
+Everage-Devin-p2/target/streams/compile/managedClasspath/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 1 Oct 26 23:45 export
+
+Everage-Devin-p2/target/streams/compile/run:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Oct 22 23:53 $global
+
+Everage-Devin-p2/target/streams/compile/run/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Oct 22 23:53 streams
+
+Everage-Devin-p2/target/streams/compile/run/$global/streams:
+total 12
+-rw-r--r--. 1 ugrad 8198 Oct 26 23:35 out
+
+Everage-Devin-p2/target/streams/compile/unmanagedClasspath:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Oct 22 21:38 $global
+
+Everage-Devin-p2/target/streams/compile/unmanagedClasspath/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Oct 22 21:38 streams
+
+Everage-Devin-p2/target/streams/compile/unmanagedClasspath/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 1 Oct 26 23:45 export
+
+Everage-Devin-p2/target/streams/compile/unmanagedJars:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Oct 22 21:38 $global
+
+Everage-Devin-p2/target/streams/compile/unmanagedJars/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Oct 22 21:38 streams
+
+Everage-Devin-p2/target/streams/compile/unmanagedJars/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 1 Oct 26 23:45 export
+
+Everage-Devin-p2/target/streams/$global:
+total 28
+drwxr-xr-x. 3 ugrad 4096 Oct 22 21:38 clean
+drwxr-xr-x. 3 ugrad 4096 Oct 22 21:38 dependencyPositions
+drwxr-xr-x. 3 ugrad 4096 Oct 22 21:38 $global
+drwxr-xr-x. 3 ugrad 4096 Oct 22 21:38 ivyConfiguration
+drwxr-xr-x. 3 ugrad 4096 Oct 22 21:38 ivySbt
+drwxr-xr-x. 3 ugrad 4096 Oct 22 21:38 projectDescriptors
+drwxr-xr-x. 3 ugrad 4096 Oct 22 21:38 update
+
+Everage-Devin-p2/target/streams/$global/clean:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Oct 22 21:38 $global
+
+Everage-Devin-p2/target/streams/$global/clean/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Oct 22 21:38 streams
+
+Everage-Devin-p2/target/streams/$global/clean/$global/streams:
+total 0
+-rw-r--r--. 1 ugrad 0 Oct 22 21:38 out
+
+Everage-Devin-p2/target/streams/$global/dependencyPositions:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Oct 22 21:38 $global
+
+Everage-Devin-p2/target/streams/$global/dependencyPositions/$global:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Oct 22 21:38 streams
+
+Everage-Devin-p2/target/streams/$global/dependencyPositions/$global/streams:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Oct 22 21:38 update_cache_2.10
+
+Everage-Devin-p2/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10:
+total 8
+-rw-r--r--. 1 ugrad  74 Oct 22 21:38 input_dsp
+-rw-r--r--. 1 ugrad 140 Oct 26 23:45 output_dsp
+
+Everage-Devin-p2/target/streams/$global/$global:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Oct 22 21:38 $global
+
+Everage-Devin-p2/target/streams/$global/$global/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Oct 22 21:38 streams
+
+Everage-Devin-p2/target/streams/$global/$global/$global/streams:
+total 0
+-rw-r--r--. 1 ugrad 0 Oct 22 21:38 out
+
+Everage-Devin-p2/target/streams/$global/ivyConfiguration:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Oct 22 21:38 $global
+
+Everage-Devin-p2/target/streams/$global/ivyConfiguration/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Oct 22 21:38 streams
+
+Everage-Devin-p2/target/streams/$global/ivyConfiguration/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 172 Oct 22 21:38 out
+
+Everage-Devin-p2/target/streams/$global/ivySbt:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Oct 22 21:38 $global
+
+Everage-Devin-p2/target/streams/$global/ivySbt/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Oct 22 21:38 streams
+
+Everage-Devin-p2/target/streams/$global/ivySbt/$global/streams:
+total 0
+-rw-r--r--. 1 ugrad 0 Oct 22 21:38 out
+
+Everage-Devin-p2/target/streams/$global/projectDescriptors:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Oct 22 21:38 $global
+
+Everage-Devin-p2/target/streams/$global/projectDescriptors/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Oct 22 21:38 streams
+
+Everage-Devin-p2/target/streams/$global/projectDescriptors/$global/streams:
+total 0
+-rw-r--r--. 1 ugrad 0 Oct 22 21:38 out
+
+Everage-Devin-p2/target/streams/$global/update:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Oct 22 21:38 $global
+
+Everage-Devin-p2/target/streams/$global/update/$global:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Oct 22 21:38 streams
+
+Everage-Devin-p2/target/streams/$global/update/$global/streams:
+total 28
+-rw-r--r--. 1 ugrad 20636 Oct 22 21:38 out
+drwxr-xr-x. 2 ugrad  4096 Oct 22 21:38 update_cache_2.10
+
+Everage-Devin-p2/target/streams/$global/update/$global/streams/update_cache_2.10:
+total 20
+-rw-r--r--. 1 ugrad  1551 Oct 22 21:38 inputs
+-rw-r--r--. 1 ugrad 13672 Oct 26 23:45 output
+
+Everage-Devin-p2/target/streams/runtime:
+total 32
+drwxr-xr-x. 3 ugrad 4096 Oct 22 23:53 dependencyClasspath
+drwxr-xr-x. 3 ugrad 4096 Oct 22 23:53 exportedProducts
+drwxr-xr-x. 3 ugrad 4096 Oct 22 23:53 externalDependencyClasspath
+drwxr-xr-x. 3 ugrad 4096 Oct 22 23:53 fullClasspath
+drwxr-xr-x. 3 ugrad 4096 Oct 22 23:53 internalDependencyClasspath
+drwxr-xr-x. 3 ugrad 4096 Oct 22 23:53 managedClasspath
+drwxr-xr-x. 3 ugrad 4096 Oct 22 23:53 unmanagedClasspath
+drwxr-xr-x. 3 ugrad 4096 Oct 22 23:53 unmanagedJars
+
+Everage-Devin-p2/target/streams/runtime/dependencyClasspath:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Oct 22 23:53 $global
+
+Everage-Devin-p2/target/streams/runtime/dependencyClasspath/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Oct 22 23:53 streams
+
+Everage-Devin-p2/target/streams/runtime/dependencyClasspath/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 64 Oct 26 23:32 export
+
+Everage-Devin-p2/target/streams/runtime/exportedProducts:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Oct 22 23:53 $global
+
+Everage-Devin-p2/target/streams/runtime/exportedProducts/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Oct 22 23:53 streams
+
+Everage-Devin-p2/target/streams/runtime/exportedProducts/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 64 Oct 26 23:32 export
+
+Everage-Devin-p2/target/streams/runtime/externalDependencyClasspath:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Oct 22 23:53 $global
+
+Everage-Devin-p2/target/streams/runtime/externalDependencyClasspath/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Oct 22 23:53 streams
+
+Everage-Devin-p2/target/streams/runtime/externalDependencyClasspath/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 1 Oct 26 23:40 export
+
+Everage-Devin-p2/target/streams/runtime/fullClasspath:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Oct 22 23:53 $global
+
+Everage-Devin-p2/target/streams/runtime/fullClasspath/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Oct 22 23:53 streams
+
+Everage-Devin-p2/target/streams/runtime/fullClasspath/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 64 Oct 26 23:32 export
+
+Everage-Devin-p2/target/streams/runtime/internalDependencyClasspath:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Oct 22 23:53 $global
+
+Everage-Devin-p2/target/streams/runtime/internalDependencyClasspath/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Oct 22 23:53 streams
+
+Everage-Devin-p2/target/streams/runtime/internalDependencyClasspath/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 64 Oct 26 23:32 export
+
+Everage-Devin-p2/target/streams/runtime/managedClasspath:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Oct 22 23:53 $global
+
+Everage-Devin-p2/target/streams/runtime/managedClasspath/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Oct 22 23:53 streams
+
+Everage-Devin-p2/target/streams/runtime/managedClasspath/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 1 Oct 26 23:40 export
+
+Everage-Devin-p2/target/streams/runtime/unmanagedClasspath:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Oct 22 23:53 $global
+
+Everage-Devin-p2/target/streams/runtime/unmanagedClasspath/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Oct 22 23:53 streams
+
+Everage-Devin-p2/target/streams/runtime/unmanagedClasspath/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 1 Oct 26 23:40 export
+
+Everage-Devin-p2/target/streams/runtime/unmanagedJars:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Oct 22 23:53 $global
+
+Everage-Devin-p2/target/streams/runtime/unmanagedJars/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Oct 22 23:53 streams
+
+Everage-Devin-p2/target/streams/runtime/unmanagedJars/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 1 Oct 26 23:40 export
+/home/ugrads/everage/Everage-Devin-p2:/home/work/cs1302a
